@@ -1,4 +1,6 @@
 # ReGen-Bazaar-Backend-IP-creation-feature
+## Current solution and vision might be not optimized due to leak of Tech skills. Please consider to check the design and provide better solution
+
 
 Alpha Feature for ReGen Bazaar marketplace. 
 
